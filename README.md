@@ -1,6 +1,6 @@
 # Project1-Team5
 
-## See NYT Analysis.docx for analysis of our project
+## See NYT Analysis.docx for write-up and assessment of our project
 
 ## See Group 5 Project 1 Powerpoint.pptx for our charts used during presentation
 
